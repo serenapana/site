@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+  text-align: center;
+  color:#fff;
+  padding-top:10em;
+  font-family: 'Roboto';font-size: 22px;
+}
+
+.container {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#mainMenu {
+ 	list-style-type: none;
+ 	width: 100%;
+ 	padding-bottom: 5em;
+}
+
+#mainMenu li {
+ 	display: inline-block;
+ 	width: 30%;
+}
+
+ .container img {
+ 	width: 20%;
+
+}
+
+.pics{
+	width:200px;
+}
+
+
+* { color:#fff; 
+	margin: 0;
+  	padding: 0;
+  	text-decoration: none;}
